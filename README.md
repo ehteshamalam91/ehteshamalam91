@@ -4,10 +4,14 @@
 
 
 
+🔭 I’m currently working on Backend and Frontend technologies 😅
 
 - 🌱 I’m currently learning  practicing courses
 
-- 💬 Ask me about **java**
+💬 Ask me about **Java**, **JavaScript**, **HTML**, **CSS**
+
+📫 How to reach me: ehtesham.tech3@gmail.com
+
 
 - ⚡ Fun fact **I am funny**
 

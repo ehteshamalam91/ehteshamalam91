@@ -2,9 +2,9 @@
 <h3 align="center">I'm interested in programming and graphic design</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehteshamalam91&label=Profile%20views&color=0e75b6&style=flat" alt="ehteshamalam91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtesham-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ehtesham-alam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ehtesham_tech3" target="blank"><img src="https://img.shields.io/twitter/follow/ehtesham_tech3?logo=twitter&style=for-the-badge" alt="ehtesham_tech3" /></a> </p>
+
 
 - 🌱 I’m currently learning  practicing courses
 
